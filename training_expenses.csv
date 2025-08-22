@@ -1,0 +1,443 @@
+Date,Amount,Description,Category
+2025-08-01,250.0,Pizza at Dominos,Food
+2025-08-02,120.0,Uber ride,Transport
+2025-08-03,500.0,Hostel rent,Rent
+2025-08-04,180.0,Movie ticket,Entertainment
+2025-08-05,90.0,Coffee and snacks,Food
+2025-08-06,150.0,Phone recharge,Bills
+2025-08-07,700.0,Running shoes from Amazon,Shopping
+2025-08-08,100.0,Notebook and pens,Education
+2025-08-09,300.0,Restaurant dinner,Food
+2025-08-10,450.0,Electricity bill,Bills
+2025-08-07,1000.0,Went to watch movies,Entertainment
+2025-08-03,500.0,Use for the treatment in hospital,Health
+2025-07-01,250.0,Uber ride to office,Transport
+2025-07-01,500.0,Dominos pizza dinner,Food
+2025-07-02,1200.0,Bought electric bill online,Bills
+2025-07-02,400.0,Movie ticket for Oppenheimer,Entertainment
+2025-07-03,800.0,Doctor consultation,Health
+2025-07-03,1500.0,Gym membership,Health
+2025-07-04,350.0,Lunch at KFC,Food
+2025-07-04,300.0,Booked Ola cab,Transport
+2025-07-05,199.0,Recharge Airtel mobile,Bills
+2025-07-05,700.0,Buy medicines,Health
+2025-07-06,600.0,Watched Netflix,Entertainment
+2025-07-06,150.0,Vegetable shopping,Food
+2025-07-07,120.0,Auto fare to station,Transport
+2025-07-07,1100.0,Electricity bill,Bills
+2025-07-08,450.0,Zomato food order,Food
+2025-07-08,50.0,Bus ticket to city,Transport
+2025-07-09,999.0,Amazon order payment,Shopping
+2025-07-09,200.0,Bought Dettol soap,Health
+2025-07-10,99.0,iTunes subscription,Entertainment
+2025-07-10,80.0,Drinking water can,Bills
+2025-08-07,500.0,As gift on Rakshabandhan,Others
+2025-08-12,100.0,Mobile Recharge,Bills
+2025-08-13,200.0,Groceries shopping,Food
+2025-08-14,300.0,Clothes shopping,Shopping
+2025-08-15,150.0,Petrol for bike,Transport
+2025-08-16,400.0,Restaurant lunch,Food
+2025-08-17,600.0,New laptop purchase,Shopping
+2025-08-17,1200.0,Bought new jeans,Shopping
+2025-08-18,800.0,Online T-shirt purchase,Shopping
+2025-08-19,1500.0,Shopping at mall,Shopping
+2025-08-20,600.0,Purchase of formal shoes,Shopping
+2025-08-21,500.0,Clothing from Myntra,Shopping
+2025-08-12,110.0,eating sweets,Food
+2025-08-12,1100.0,birthday gift ,Shopping
+2025-08-12,120.0,petrol for bike,Transport
+2025-08-08,100.0,Notebook and pens,Education
+2025-09-08,100.0,Book and pens,Education
+2025-08-11,1000.0,Went to watch movies,Entertainment
+2025-08-12,500.0,Use for the treatment in hospital,Health
+2025-08-13,250.0,Uber ride to office,Transport
+2025-08-14,500.0,Dominos pizza dinner,Food
+2025-08-15,1200.0,Bought electric bill online,Bills
+2025-08-16,400.0,Movie ticket for Oppenheimer,Entertainment
+2025-08-17,800.0,Doctor consultation,Health
+2025-08-18,1500.0,Gym membership,Health
+2025-08-19,350.0,Lunch at KFC,Food
+2025-08-20,300.0,Booked Ola cab,Transport
+2025-08-21,199.0,Recharge Airtel mobile,Bills
+2025-08-22,700.0,Buy medicines,Health
+2025-08-23,600.0,Watched Netflix,Entertainment
+2025-08-24,150.0,Vegetable shopping,Food
+2025-08-25,120.0,Auto fare to station,Transport
+2025-08-26,1100.0,Electricity bill,Bills
+2025-08-27,450.0,Zomato food order,Food
+2025-08-28,50.0,Bus ticket to city,Transport
+2025-08-29,999.0,Amazon order payment,Shopping
+2025-08-30,200.0,Bought Dettol soap,Health
+2025-08-31,99.0,iTunes subscription,Entertainment
+2025-09-01,80.0,Drinking water can,Bills
+2025-09-02,500.0,As gift on Rakshabandhan,Others
+2025-09-03,100.0,Mobile Recharge,Bills
+2025-09-04,200.0,Groceries shopping,Groceries
+2025-09-05,300.0,Clothes shopping,Shopping
+2025-09-06,150.0,Petrol for bike,Transport
+2025-09-07,400.0,Restaurant lunch,Food
+2025-09-08,250.0,Bought apples and bananas,Groceries
+2025-09-09,120.0,Metro ticket to work,Transport
+2025-09-10,600.0,Monthly water bill,Bills
+2025-09-11,450.0,Purchased jeans from Myntra,Shopping
+2025-09-12,800.0,Doctor visit for fever,Health
+2025-09-13,300.0,Watched movie at PVR,Entertainment
+2025-09-14,1500.0,Monthly house rent,Rent
+2025-09-15,90.0,Bought milk and bread,Groceries
+2025-09-16,200.0,Bus fare to market,Transport
+2025-09-17,1100.0,Electricity bill payment,Bills
+2025-09-18,999.0,Ordered shoes online,Shopping
+2025-09-19,500.0,Pharmacy medicine purchase,Health
+2025-09-20,650.0,Concert ticket,Entertainment
+2025-09-21,2000.0,Apartment rent,Rent
+2025-09-22,300.0,Charity to orphanage,Donations
+2025-09-23,250.0,Purchased vegetables,Groceries
+2025-09-24,180.0,Auto fare to railway station,Transport
+2025-09-25,1450.0,Gas bill,Bills
+2025-09-26,799.0,Clothes shopping at Lifestyle,Shopping
+2025-09-27,450.0,Blood test at lab,Health
+2025-09-28,400.0,Netflix subscription,Entertainment
+2025-09-29,1800.0,Room rent payment,Rent
+2025-09-30,200.0,Donation at temple,Donations
+2025-10-01,300.0,Groceries from supermarket,Groceries
+2025-10-02,100.0,Bus pass recharge,Transport
+2025-10-03,900.0,Internet bill,Bills
+2025-10-04,450.0,Handbag from Amazon,Shopping
+2025-10-05,700.0,Eye checkup,Health
+2025-10-06,350.0,Theatre play ticket,Entertainment
+2025-10-07,2200.0,Flat rent payment,Rent
+2025-10-08,500.0,Charity for flood relief,Donations
+2025-10-09,150.0,Bought onions and potatoes,Groceries
+2025-10-10,250.0,Metro ride to office,Transport
+2025-10-11,750.0,Phone bill,Bills
+2025-10-12,999.0,Smartwatch purchase,Shopping
+2025-10-13,600.0,General physician visit,Health
+2025-10-14,450.0,Cinema ticket,Entertainment
+2025-10-15,2000.0,Monthly rent for flat,Rent
+2025-10-16,350.0,Donation to beggar,Donations
+2025-10-17,180.0,Bread milk and eggs,Groceries
+2025-10-18,120.0,Rickshaw fare,Transport
+2025-10-19,600.0,Gas cylinder refill,Bills
+2025-10-20,1500.0,New laptop bag,Shopping
+2025-10-21,400.0,Dental checkup,Health
+2025-10-22,300.0,OTT subscription,Entertainment
+2025-10-23,2500.0,House rent payment,Rent
+2025-10-24,450.0,Charity to NGO,Donations
+2025-10-25,200.0,Daily grocery items,Groceries
+2025-10-26,180.0,Bus ticket to mall,Transport
+2025-10-27,850.0,Electricity recharge,Bills
+2025-10-28,800.0,Clothes from H&M,Shopping
+2025-10-29,550.0,Pharmacy medicines,Health
+2025-10-30,500.0,Amusement park ticket,Entertainment
+2025-10-31,2400.0,Apartment rent,Rent
+2025-11-01,1000.0,Charity donation,Donations
+2025-11-02,320.0,Supermarket grocery shopping,Groceries
+2025-11-03,150.0,Eating sweets at bakery,Food
+2025-11-04,200.0,Auto fare to school,Transport
+2025-11-05,950.0,Electricity bill,Bills
+2025-11-06,1500.0,Shopping for Diwali clothes,Shopping
+2025-11-07,300.0,Medicine for cold,Health
+2025-11-08,500.0,Stand-up comedy show,Entertainment
+2025-11-09,2200.0,Monthly apartment rent,Rent
+2025-11-10,450.0,Charity to old age home,Donations
+2025-11-11,180.0,Buying rice and lentils,Groceries
+2025-11-12,100.0,Bike petrol refill,Transport
+2025-11-13,800.0,Gas bill,Bills
+2025-11-14,999.0,Handbag from Flipkart,Shopping
+2025-11-15,400.0,Eye specialist visit,Health
+2025-11-16,350.0,Drama theatre ticket,Entertainment
+2025-11-17,2500.0,House rent payment,Rent
+2025-11-18,300.0,Charity for education,Donations
+2025-11-19,250.0,Buying green vegetables,Groceries
+2025-11-20,180.0,Bus ticket to city mall,Transport
+2025-11-21,1450.0,Electricity bill,Bills
+2025-11-22,899.0,Winter jacket shopping,Shopping
+2025-11-23,550.0,Blood pressure checkup,Health
+2025-11-24,450.0,Movie ticket,Entertainment
+2025-11-25,2000.0,Room rent payment,Rent
+2025-11-26,500.0,Donation to local shelter,Donations
+2025-11-27,200.0,Groceries from nearby shop,Groceries
+2025-11-28,150.0,Shared auto fare,Transport
+2025-11-29,950.0,Water bill,Bills
+2025-11-30,1250.0,Shopping for sports shoes,Shopping
+2025-12-01,600.0,Medicine for back pain,Health
+2025-12-02,500.0,Music concert ticket,Entertainment
+2025-12-03,2500.0,Monthly flat rent,Rent
+2025-12-04,400.0,Charity to hospital,Donations
+2025-12-05,300.0,Buying flour and spices,Groceries
+2025-12-06,180.0,Metro card recharge,Transport
+2025-12-07,1050.0,Gas bill,Bills
+2025-12-08,850.0,Jeans from Pantaloons,Shopping
+2025-12-09,450.0,Doctor visit for checkup,Health
+2025-12-10,500.0,Stand-up comedy ticket,Entertainment
+2025-12-11,2000.0,House rent payment,Rent
+2025-12-12,350.0,Charity to NGO,Donations
+2025-12-13,220.0,Supermarket grocery shopping,Groceries
+2025-12-14,120.0,Bus ticket to railway station,Transport
+2025-12-15,1150.0,Electricity bill,Bills
+2025-12-16,999.0,Handbag shopping,Shopping
+2025-12-17,350.0,Medicine purchase,Health
+2025-12-18,450.0,Drama show ticket,Entertainment
+2025-12-19,2100.0,Monthly rent,Rent
+2025-12-20,400.0,Donation for charity,Donations
+2025-12-21,300.0,Buying milk and biscuits,Groceries
+2025-12-22,150.0,Auto fare,Transport
+2025-12-23,800.0,Gas connection bill,Bills
+2025-12-24,1200.0,Shopping for mobile phone,Shopping
+2025-12-25,700.0,Physiotherapy session,Health
+2025-12-26,300.0,Film ticket,Entertainment
+2025-12-27,2500.0,Flat rent,Rent
+2025-12-28,500.0,Charity donation,Donations
+2025-12-29,200.0,Grocery items purchase,Groceries
+2025-12-30,180.0,Bus ticket,Transport
+2025-12-31,850.0,Water bill,Bills
+2025-08-17,250.0,Bought apples and bananas,Groceries
+2025-08-17,120.0,Metro ticket to work,Transport
+2025-08-17,600.0,Monthly water bill,Bills
+2025-08-17,450.0,Purchased jeans from Myntra,Shopping
+2025-08-17,800.0,Doctor visit for fever,Health
+2025-08-17,300.0,Watched movie at PVR,Entertainment
+2025-08-17,1500.0,Monthly house rent,Rent
+2025-08-17,90.0,Bought milk and bread,Groceries
+2025-08-18,200.0,Bus fare to market,Transport
+2025-08-18,1100.0,Electricity bill payment,Bills
+2025-08-18,999.0,Ordered shoes online,Shopping
+2025-08-18,500.0,Pharmacy medicine purchase,Health
+2025-08-18,650.0,Concert ticket,Entertainment
+2025-08-18,2000.0,Apartment rent,Rent
+2025-08-18,300.0,Charity to orphanage,Donations
+2025-08-18,250.0,Purchased vegetables,Groceries
+2025-08-19,180.0,Auto fare to railway station,Transport
+2025-08-19,1450.0,Gas bill,Bills
+2025-08-19,799.0,Clothes shopping at Lifestyle,Shopping
+2025-08-19,450.0,Blood test at lab,Health
+2025-08-19,400.0,Netflix subscription,Entertainment
+2025-08-19,1800.0,Room rent payment,Rent
+2025-08-19,200.0,Donation at temple,Donations
+2025-08-19,300.0,Groceries from supermarket,Groceries
+2025-08-20,100.0,Bus pass recharge,Transport
+2025-08-20,900.0,Internet bill,Bills
+2025-08-20,450.0,Handbag from Amazon,Shopping
+2025-08-20,700.0,Eye checkup,Health
+2025-08-20,350.0,Theatre play ticket,Entertainment
+2025-08-20,2200.0,Flat rent payment,Rent
+2025-08-20,500.0,Charity for flood relief,Donations
+2025-08-20,150.0,Bought onions and potatoes,Groceries
+2025-08-21,250.0,Metro ride to office,Transport
+2025-08-21,750.0,Phone bill,Bills
+2025-08-21,999.0,Smartwatch purchase,Shopping
+2025-08-21,600.0,General physician visit,Health
+2025-08-21,450.0,Cinema ticket,Entertainment
+2025-08-21,2000.0,Monthly rent for flat,Rent
+2025-08-21,350.0,Donation to beggar,Donations
+2025-08-21,180.0,Bread milk and eggs,Groceries
+2025-08-22,120.0,Rickshaw fare,Transport
+2025-08-22,600.0,Gas cylinder refill,Bills
+2025-08-22,1500.0,New laptop bag,Shopping
+2025-08-22,400.0,Dental checkup,Health
+2025-08-22,300.0,OTT subscription,Entertainment
+2025-08-22,2500.0,House rent payment,Rent
+2025-08-22,450.0,Charity to NGO,Donations
+2025-08-22,200.0,Daily grocery items,Groceries
+2025-08-23,180.0,Bus ticket to mall,Transport
+2025-08-23,850.0,Electricity recharge,Bills
+2025-08-23,800.0,Clothes from H&M,Shopping
+2025-08-23,550.0,Pharmacy medicines,Health
+2025-08-23,500.0,Amusement park ticket,Entertainment
+2025-08-23,2400.0,Apartment rent,Rent
+2025-08-23,1000.0,Charity donation,Donations
+2025-08-23,320.0,Supermarket grocery shopping,Groceries
+2025-08-20,600.0,Room rent,Rent
+2025-10-01,1000.0,Charity donation,Donations
+2025-08-22,500.0,Purchase of engineering textbooks,Education
+2025-08-23,150.0,Exam application fee,Education
+2025-08-12,100.0,Dress for myself,Shopping
+2025-08-12,150.0,Purchases bike parts,Transport
+2025-08-17,500.0,Gas bill payment,Bills
+2025-08-17,1200.0,Water supply charges,Bills
+2025-08-17,350.0,Electricity bill payment,Bills
+2025-08-18,200.0,Internet service payment,Bills
+2025-08-18,180.0,Mobile postpaid bill,Bills
+2025-08-18,600.0,Paid LPG cylinder bill,Bills
+2025-08-19,150.0,Drinking water purchase,Bills
+2025-08-19,250.0,Sewage maintenance fee,Bills
+2025-08-19,300.0,Monthly gas meter charge,Bills
+2025-08-20,800.0,Apartment maintenance bill,Bills
+2025-08-20,900.0,Electricity bill from BESCOM,Bills
+2025-08-20,400.0,Gas connection renewal,Bills
+2025-08-21,100.0,Recharge for DTH,Bills
+2025-08-21,250.0,Internet router monthly fee,Bills
+2025-08-21,180.0,Mobile data recharge,Bills
+2025-08-22,600.0,Pay broadband bill,Bills
+2025-08-22,200.0,Water tanker payment,Bills
+2025-08-22,150.0,Prepaid electricity recharge,Bills
+2025-08-23,500.0,House sanitation bill,Bills
+2025-08-23,300.0,Gas booking payment,Bills
+2025-08-23,120.0,Monthly tap water bill,Bills
+2025-08-24,800.0,Power bill from electricity board,Bills
+2025-08-24,600.0,Apartment garbage collection fee,Bills
+2025-08-24,350.0,Gas refill payment,Bills
+2025-08-25,500.0,Monthly power consumption bill,Bills
+2025-08-25,250.0,Drinking water bill,Bills
+2025-08-25,300.0,DTH annual subscription,Bills
+2025-08-17,200.0,Donation to orphanage,Others
+2025-08-17,150.0,Gift wrapping materials,Others
+2025-08-17,400.0,Random purchase at fair,Others
+2025-08-18,250.0,Charity box contribution,Others
+2025-08-18,300.0,Helping neighbor with rent,Others
+2025-08-18,180.0,Community fund support,Others
+2025-08-19,150.0,Buying plants for society,Others
+2025-08-19,250.0,Street vendor purchase,Others
+2025-08-19,350.0,Buying craft items,Others
+2025-08-20,200.0,Helping friend in need,Others
+2025-08-20,450.0,Paying school annual day fund,Others
+2025-08-20,300.0,Neighborhood event contribution,Others
+2025-08-21,150.0,Buying handmade goods,Others
+2025-08-21,400.0,Helping with medical camp,Others
+2025-08-21,250.0,Paying festival fund,Others
+2025-08-22,100.0,Tip to musician,Others
+2025-08-22,180.0,Paying local guide,Others
+2025-08-22,200.0,Contributing to temple,Others
+2025-08-23,150.0,Buying art from local fair,Others
+2025-08-23,350.0,Helping flood victims,Others
+2025-08-23,300.0,Buying flags for Independence Day,Others
+2025-08-24,400.0,Helping stray animal care,Others
+2025-08-24,250.0,Paying volunteer group,Others
+2025-08-24,200.0,Buying decorations for event,Others
+2025-08-25,150.0,Street play contribution,Others
+2025-08-25,250.0,Buying handmade accessories,Others
+2025-08-25,300.0,Helping with sports event,Others
+2025-08-26,200.0,Supporting community kitchen,Others
+2025-08-26,180.0,Buying souvenirs,Others
+2025-08-26,250.0,Helping school function,Others
+2025-08-27,300.0,Random cash gift,Others
+2025-08-27,200.0,Contributing for mural painting,Others
+2025-08-17,5000.0,Semester tuition fees,Education
+2025-08-17,1500.0,Purchase of engineering books,Education
+2025-08-18,2000.0,School fees payment,Education
+2025-08-18,250.0,Stationery for school,Education
+2025-08-19,800.0,Online course subscription,Education
+2025-08-19,1500.0,Coaching class fee,Education
+2025-08-20,300.0,Exam registration fees,Education
+2025-08-20,1200.0,Textbook purchase,Education
+2025-08-21,400.0,Science lab materials,Education
+2025-08-21,200.0,Math competition entry fee,Education
+2025-08-22,500.0,Art workshop fee,Education
+2025-08-22,250.0,Drawing supplies,Education
+2025-08-23,800.0,Music class fees,Education
+2025-08-23,200.0,Language learning book,Education
+2025-08-24,600.0,Physics practical manual,Education
+2025-08-24,300.0,Exam form submission fee,Education
+2025-08-25,450.0,Educational seminar ticket,Education
+2025-08-25,700.0,Buy programming books,Education
+2025-08-26,2000.0,College hostel fees,Education
+2025-08-26,300.0,Test preparation guide,Education
+2025-08-27,1500.0,School uniform purchase,Education
+2025-08-27,250.0,Art paper and paints,Education
+2025-08-28,1200.0,Purchase study table,Education
+2025-08-28,350.0,Stationery restock,Education
+2025-08-29,500.0,Skill training program,Education
+2025-08-29,400.0,Field trip charges,Education
+2025-08-30,250.0,Notebook and pens,Education
+2025-08-30,200.0,Assignment printing,Education
+2025-08-31,800.0,College sports fee,Education
+2025-08-31,600.0,Purchase reference guide,Education
+2025-09-01,300.0,Language course materials,Education
+2025-09-01,500.0,Certification exam fee,Education
+2025-08-17,500.0,Vegetable market purchase,Groceries
+2025-08-17,300.0,Fruit purchase,Groceries
+2025-08-17,250.0,Dairy products,Groceries
+2025-08-18,400.0,Supermarket shopping,Groceries
+2025-08-18,600.0,Organic vegetables,Groceries
+2025-08-18,350.0,Local grocery store,Groceries
+2025-08-19,500.0,Monthly ration items,Groceries
+2025-08-19,250.0,Flour and rice,Groceries
+2025-08-19,300.0,Pulses and spices,Groceries
+2025-08-20,450.0,Frozen food,Groceries
+2025-08-20,200.0,Snacks packet,Groceries
+2025-08-20,150.0,Tea and sugar,Groceries
+2025-08-21,350.0,Fresh vegetables,Groceries
+2025-08-21,250.0,Fruit basket,Groceries
+2025-08-21,400.0,Cooking oil,Groceries
+2025-08-22,300.0,Onion and potato sack,Groceries
+2025-08-22,150.0,Green leafy vegetables,Groceries
+2025-08-22,180.0,Packaged milk,Groceries
+2025-08-23,500.0,Shopping at Big Bazaar,Groceries
+2025-08-23,350.0,Buying dry fruits,Groceries
+2025-08-23,200.0,Bread and butter,Groceries
+2025-08-24,250.0,Packaged food items,Groceries
+2025-08-24,300.0,Daily household items,Groceries
+2025-08-24,150.0,Tomato and cucumber,Groceries
+2025-08-25,400.0,Fruits and juices,Groceries
+2025-08-25,200.0,Instant noodles,Groceries
+2025-08-25,180.0,Soft drinks pack,Groceries
+2025-08-26,350.0,Monthly grocery shopping,Groceries
+2025-08-26,500.0,Cereal packets,Groceries
+2025-08-27,150.0,Vegetable combo pack,Groceries
+2025-08-27,200.0,Pickles and sauces,Groceries
+2025-08-28,300.0,Snacks and biscuits,Groceries
+2025-08-28,400.0,Frozen parathas,Groceries
+2025-08-17,250.0,Burger King dinner,Food
+2025-08-18,300.0,Ordered biryani from Swiggy,Food
+2025-08-19,150.0,Cafe coffee and sandwich,Food
+2025-08-20,200.0,Ice cream treat,Food
+2025-08-21,350.0,Pizza Hut lunch,Food
+2025-08-22,120.0,Samosa and tea,Food
+2025-08-23,400.0,Chinese noodles dinner,Food
+2025-08-24,500.0,Buffet lunch,Food
+2025-08-25,180.0,Street food snacks,Food
+2025-08-26,450.0,Family dinner at restaurant,Food
+2025-08-27,100.0,Bakery pastries,Food
+2025-08-28,320.0,Burger and fries,Food
+2025-08-29,250.0,South Indian thali,Food
+2025-08-30,200.0,Fresh juice and salad,Food
+2025-08-31,300.0,Falooda dessert,Food
+2025-09-01,220.0,Pani puri and chaat,Food
+2025-09-02,400.0,Weekend dinner outing,Food
+2025-09-03,150.0,Charity to roadside beggar,Donations
+2025-09-04,200.0,Donation for school children,Donations
+2025-09-05,500.0,Temple donation,Donations
+2025-09-06,300.0,Clothes donation to NGO,Donations
+2025-09-07,250.0,Food donation for poor,Donations
+2025-09-08,400.0,Blood donation camp support,Donations
+2025-09-09,150.0,Donation for animal shelter,Donations
+2025-09-10,350.0,Online charity payment,Donations
+2025-09-11,500.0,Fund for flood victims,Donations
+2025-09-12,100.0,Street donation to musician,Donations
+2025-09-13,200.0,Help for old age home,Donations
+2025-09-14,250.0,Charity at church,Donations
+2025-09-15,300.0,Support for cancer patient,Donations
+2025-09-16,450.0,Charity event contribution,Donations
+2025-09-17,350.0,Fundraising event support,Donations
+2025-09-18,500.0,Monthly house rent payment,Rent
+2025-09-19,500.0,Paying rent for apartment,Rent
+2025-09-20,550.0,House rent for this month,Rent
+2025-09-21,600.0,Rent for shared room,Rent
+2025-09-22,450.0,Flat rent transfer,Rent
+2025-09-23,500.0,Hostel monthly rent,Rent
+2025-09-24,700.0,Pay rent to landlord,Rent
+2025-09-25,800.0,Apartment rent,Rent
+2025-09-26,550.0,PG accommodation rent,Rent
+2025-09-27,500.0,Advance rent payment,Rent
+2025-09-28,650.0,Rent for studio apartment,Rent
+2025-09-29,1200.0,Electricity bill payment,Bills
+2025-09-30,900.0,Water bill,Bills
+2025-10-01,1500.0,Internet bill payment,Bills
+2025-10-02,800.0,Postpaid mobile bill,Bills
+2025-10-03,650.0,Cable TV subscription,Bills
+2025-10-04,700.0,Gas pipeline bill,Bills
+2025-10-05,500.0,Landline bill,Bills
+2025-10-06,400.0,Movie night with friends,Entertainment
+2025-10-07,300.0,Online gaming subscription,Entertainment
+2025-10-08,500.0,Concert ticket,Entertainment
+2025-10-09,250.0,Amusement park entry,Entertainment
+2025-10-06,700.0,Dentist appointment,Health
+2025-10-07,450.0,Pharmacy medicines,Health
+2025-10-08,1200.0,Eye checkup and glasses,Health
+2025-10-09,300.0,Yoga class fee,Health
+2025-08-12,199.0,gas recharge,Bills
+2025-08-13,450,Bought new book,Education
+2025-08-13,800,College textbook purchase,Education
+2025-08-13,150,Notebook for school,Education
+2025-08-13,120,Study guide book,Education
+2025-08-14,299.0,Got subscription of netflix,Entertainment
